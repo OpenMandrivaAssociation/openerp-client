@@ -47,7 +47,7 @@ running in your local network or the Internet.
 rm -f setup.nsi
 rm -rf bin/SpiffGtkWidgets
 sed -i '/SpiffGtkWidgets/d' setup.py
-rm -f msgfmt.py
+#rm -f msgfmt.py
 
 sed -i -e '\;/usr/bin/env;d' bin/release.py bin/%{name}.py
 sed -i -e 's/\r//' doc/README* doc/License.rtf
