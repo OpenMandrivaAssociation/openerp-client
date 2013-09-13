@@ -1,0 +1,12 @@
+Except as stated below, all files ar AGPLv3+
+
+GPLv3+ files:
+------------
+./bin/widget_search/filter.py: GPL (v3 or later)
+./bin/widget_search/custom_filter.py: GPL (v3 or later)
+./bin/widget/view/list.py: GPL (v3 or later)
+./bin/release.py: GPL (v3 or later)
+
+LGPLv3+ files:
+--------------
+./bin/widget/view/diagram_gtk/xdot.py: LGPL (v3 or later)

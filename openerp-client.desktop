@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=OpenERP
+GenericName=GTK ERP Client
+Comment=A gtk client for the open source ERP
+Exec=/usr/bin/openerp-client
+Icon=openerp-icon
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Office;GNOME;GTK;
