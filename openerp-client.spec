@@ -6,7 +6,7 @@ Release:        5.%(echo %{oe_rel} | tr '-' '_')
 License:        AGPLv3 and GPLv3+ and LGPLv3+
 Group:          Databases
 Summary:        Business Applications Server Client
-URL:            http://www.openerp.com
+URL:            https://www.openerp.com
 #Source0:        http://nightly.openerp.com/%%{version}/releases/%%{name}-%%{version}-1.tar.gz
 Source0:        http://nightly.openerp.com/%{version}/nightly/src/%{name}-%{version}-%{oe_rel}.tar.gz
 
